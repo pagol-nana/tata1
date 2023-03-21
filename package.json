@@ -1,0 +1,11 @@
+{
+  "name": "free-tv",
+  "version": "1.0.1",
+  "description": "ISU World Figure Skating Championships 2023: Full schedule ans how to watch live stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
